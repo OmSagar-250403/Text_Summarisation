@@ -2,6 +2,7 @@ import os
 from pathlib import Path
 import logging
 
+#[2022-01-01 12:00:00,000]: "My message"   --> This is the format
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 
 
