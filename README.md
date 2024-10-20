@@ -54,3 +54,13 @@ Data Scientist
 Email: omsagar250403@gmail.com
 
 ```
+
+![Screenshot (6)](https://github.com/user-attachments/assets/a50bc01c-7180-4ee3-a00a-1a24168d135d)
+
+
+![Screenshot (7)](https://github.com/user-attachments/assets/90e8ec78-aa03-43b2-ab1c-936acbdcc802)
+
+
+![Screenshot 2024-10-21 011724](https://github.com/user-attachments/assets/cd711f2b-a8f6-499b-b259-c64bb62dc3f1)
+
+
